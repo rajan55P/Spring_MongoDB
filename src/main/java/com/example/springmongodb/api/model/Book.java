@@ -19,3 +19,4 @@ public class Book {
     private String authorName;
 
 }
+// A quick example for using lombok
